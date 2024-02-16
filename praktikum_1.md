@@ -1,6 +1,3 @@
-# jobsheet1
-tugas praktikum basis data jobsheet 1
-
 -praktikum 1
 
 1.	Jalankan Apache dan MySQL pada XAMPP Control Panel.
