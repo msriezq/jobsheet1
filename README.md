@@ -36,9 +36,9 @@ tugas praktikum basis data jobsheet 1
    
    ![image](https://github.com/msriezq/jobsheet1/assets/146205529/72aba865-e135-4d33-ad2b-b471e80a0c14)
 
-3.	Untuk mengecek apakah data yang ditambahkan sudah masuk ke basis data caranya : pilih nama tabel dan cek nilai yang ada di baris paling akhir.
+2.	Untuk mengecek apakah data yang ditambahkan sudah masuk ke basis data caranya : pilih nama tabel dan cek nilai yang ada di baris paling akhir.
 
-4.	Soal 1: 
+3.	Soal 1: 
 Tambahkan data penjualan sebagaimana berikut 
 - kode_penjualan = 3 
 - tgl = 8 Februari 2021 
